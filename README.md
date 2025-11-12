@@ -37,7 +37,7 @@ const editor = new Editor({
 </script>
 ```
 
-是对这些节点的扩展，节点命令可直接使用
+基于这些扩展开发,使用前安装这些扩展,在Tiptap官网中可以看到它们的使用方式,命令也可以直接使用：
 ```
 import { Table } from '@tiptap/extension-table'
 import { TableCell } from '@tiptap/extension-table/cell'
