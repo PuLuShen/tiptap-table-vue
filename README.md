@@ -8,7 +8,7 @@ tiptap table extension
 ```
 <template>
   <div>
-   <button @click.prevent="insertTable(2,3,true)">插入表格</button>
+   <button @click.prevent="insertTable(2,3,false)">插入表格</button>
 </div>
   <div style="width: 100%;">
     <editor-content :editor="editor" />
