@@ -1,6 +1,9 @@
 # tiptap-table-vue
 tiptap table extension
 
+<img width="1286" height="682" alt="image" src="https://github.com/user-attachments/assets/72ce2824-f099-4167-9d81-9d9b5e8593bc" />
+
+
 在Editor文件中引用
 ```
 <template>
